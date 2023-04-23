@@ -26,4 +26,4 @@ I created a Whatsapp Clone. This helped me in understanding the architecture of 
 
 ## Contact Me
 
-If you would like to get in touch with me, feel free to send me an email at [email address]. I look forward to hearing from you!
+If you would like to get in touch with me, feel free to send me an email at [email address]. I look forward to hearing from you.
